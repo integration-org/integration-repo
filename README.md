@@ -10,3 +10,5 @@ Again trying with -f command.
 
 Setup commit-msg file.
 Added new policy into it. Let see what happen.
+
+Trying key that is not there in JIRA.
